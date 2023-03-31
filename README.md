@@ -1,0 +1,3 @@
+# canvas
+
+Working with canvas and changing the photo with it, changing the background color, pixel changes and creating animation with it on the photo and...
