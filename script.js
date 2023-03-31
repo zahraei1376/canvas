@@ -95,8 +95,7 @@ const convertoAnimate = () => {
 
 const convertToPixels = () => {
     const pixels = ctx.getImageData(0, 0, canvas.width, canvas.height);
-
-    console.log("pix", pixels);
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
 
     let particlesArray = [];
     const numberOfParticles = 5000;
