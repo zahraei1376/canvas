@@ -1,3 +1,11 @@
-# canvas
+## CANVAS
+Working with **canvas** in **JavaScript**
 
-Working with canvas and changing the photo with it, changing the background color, pixel changes and creating animation with it on the photo and...
+This is a short video of how the project works.
+
+![Alt Text](./screenRecord.gif)
+
+- Change the color of the photo to gray with JavaScript and change the colors of the pixels of the photo.
+- Get the pixels of the photo and move them from top to bottom to white color on the photo.
+- Get the pixels of the photo and move them from top to bottom to form the background of the photo in white color without the primary photo.
+- Get the pixels of the photo and move them from left to right to form the background of the photo in the original color of the photo without the primary photo.
